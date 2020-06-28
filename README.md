@@ -1,3 +1,3 @@
 # hello-world-2
 Yet another respository
-Hi there I supprt Aston Villa and also a tutor of Mathematics
+Hi there,  I support Aston Villa and also a tutor of Mathematics
